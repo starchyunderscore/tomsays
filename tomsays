@@ -1,0 +1,45 @@
+#!/bin/bash
+echo ""
+echo $1
+echo -e '
+            \
+                                        &#BBBBBBGGBB#&                                              
+                                  &#GPYJJ???JY55555YJJJYPB&                                         
+                                GYJ?JYYJ??JJY5GGGGPP5J?7!7?5PG#&                                    
+                              &577??JJYJ??77?Y5555555YYYJJJJ55PPG#                                  
+                             #?!!777?J5P55PP55YJJJJYJY5PGBBGPGGGGPG&                                
+                            &J7?JY?JJYGGBBG57~~~!!!!77?JY5G#####BBGG&                               
+                            5?J5555P5GGBBG5!:...::^~~!!7JY55GB&&#BBGG                               
+                           &YJJYY55PPGGGP5!:...::^~!777?JY5555G&##BBG&                              
+                           &5JJYYY5PGGPYJ7^:...::^^~!?JJY555555G##BBG&                              
+                            PYYYYY5PPPY?!^::..:^~7JJJJY5555PPP55G#BBG#                  J#BG        
+                            PJ55YY5PP5?^::::^!7Y5PPPP555555PPGBGPBBGG&                 P:J^J        
+                            5JPP55PP5J^::::^!?JJY5P5555555555PPPPGBB&                  7^~?&B5&     
+                            B55JYPGPP?::::^~7!!?5PGGGPPYY5PBBBG5YG&                   P.!?YJ!5      
+                             57?7JY5Y^::..::::~?5GGGG57^:?GBBBGPP                    #^^?7!5#&      
+                             G7!!??~^:::::..::^~7?JJ7~. .^YPPP5YB                  &Y:.7??Y5JY&     
+                             B!~J5J..::::::::::^^~~7!^:  :75PP5YG                  ? .:7?J?JB&BYG&  
+                             GY~~^~:..:::::::^^!?J5P?::^^~?Y555YB                 &^...^7JGGJ~^7Y&  
+                             #P5!~~^:.::::::^~7J5PPP5?J55Y55P5YY#                 B..... .^:^JG&    
+                              G555?!!:::::::^~J5PP5?!!7YPPP555YP                  Y ....:^7Y#       
+                              &5J5J^^::::::^^~YPGBG5PPPP5PGGPP5#                 G:.:^^~?JG         
+                               &PGJ:.:::::^^~!YPGP55PGPPG##GPYP                #7 .:^~!YG&          
+                                 G~...:^^^^~~!Y5J!~!7JYY5GP5YG               &5: .:~!?G             
+                                B~....::~~~!!!77!~!?Y5PP5YYYB              &Y^ .^!?JG&              
+                             .  ...::^!??77!~~~!!7J5PPP5P             B?:.:~7JJY#
+                           \e[1;31m&Y\e[0m?J~:  ..:::^~?YYYYYYJ??JY5\e[1;31mPPPG&\e[0m           P!. :~7JYJP&
+                         \e[1;31m&PJ?JJY\e[0mJ7~:.::^~!?Y5555555555\e[1;31m5PP#\e[0m          #Y^  .^!?JYJB
+                       \e[1;31mB5J?JYYYYYYYJ\e[0m7~^^!7JYYYYYJJJJJ\e[1;31mJPBGG#\e[0m       G7.  .^7?YYJY#
+                    \e[1;31m#PJ??J5555YY555555YJ\e[0m?JYYYYYYJJJJ\e[1;31m?5BBBGG#\e[0m   #J^...:~?YYYYJ5&
+                 \e[1;31m&GY???JY5GGBGGGGGPPPGGBGGPP55YYJJJY5BBBBGGGGGJ\e[0m: .^~!7YYYYYJP
+               \e[1;31m&PJ???JJJJJJJYPGGBBBBBBB######BBGPPBBBBBBBGGBBGP5JJ\e[0mYYYYYYYYJB
+             \e[1;31m&PJ????JJJJJJJY55PPP5Y55PGGB#########BBBBBB#BGBBBGGB\e[0m555YJJYJ5#
+            \e[1;31mBJ????JJJJJJJJJJY5PGBBG55Y5PGGBB#######BBBBB#BBBBGGBG\e[0m555YYYYG
+           \e[1;31mP????JJJJJJJYYYYY55PGGGBBBBBB########BBBBBBB##BGBBBBGYJ\e[0m55YYP&
+         \e[1;31m#Y????JJJJJJYY555PPGGBBBBGGGGBBB###########BB##BBBBBBPJ\e[0m?JJJ5#
+       \e[1;31m&PJ????JJJJJJYY55PPPGBBBBBB##BGP555PGGBBBBBBB###BBBBBBBP\e[0m??JP#
+      \e[1;31mBY?????JJJJJJY55PPPBBGBB###BB####BBBBBBBBBBB####BBBBBBBBGPB&                                  
+     BJ??J??JJYJJJJYPGGGPGBBBBB#####B#####BBBBBBBB##BBBBBBBBBBG&                                    
+    BJJJJJJYPPYJJ5YYPBBBGGB##BB######BBB###BBBBBBBBBBBBBBBBBBBG#                                    
+   &YJJJJJ5GG5JJYG5PGGBBBBGB###BB#####BBB###BBBBBBBBBBBBBBBBBBGB                                    
+   PJ?JJJYGBGYJJ5BPPBBBBB#BB###BB#####BBBBBBBBBBBBBBBBBBBBBBBBBB&\e[0m                                   '
